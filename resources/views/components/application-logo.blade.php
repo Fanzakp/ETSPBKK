@@ -1,0 +1,1 @@
+<img src="{{ asset('build/assets/images/DIS MEDIA LOGO.png') }}" alt="DISMedia Logo" {{ $attributes }} />
